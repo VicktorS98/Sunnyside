@@ -173,6 +173,7 @@ img {
   font-weight: 600;
   font-size: var(--fs-4);
   color: var(--clr-text-grey);
+  margin-bottom: 0;
 }
 .features .features--btn {
   cursor: pointer;
